@@ -1,0 +1,24 @@
+analyzer:
+  errors:
+    unused_import: ignore
+    unused_element: ignore
+    unused_local_variable: ignore
+    unnecessary_import: ignore
+    unnecessary_null_comparison: ignore
+    deprecated_member_use: ignore
+    body_might_complete_normally_nullable: ignore
+    unnecessary_string_escapes: ignore
+    unnecessary_non_null_assertion: ignore
+    invalid_null_aware_operator: ignore
+    dead_code: ignore
+    dead_null_aware_expression: ignore
+    unused_field: ignore
+    body_might_complete_normally_catch_error: ignore
+    unrecognized_error_code: ignore
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+
+linter:
+  rules:
+    unnecessary_string_escapes: false

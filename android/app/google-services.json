@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1021620493475",
+    "project_id": "bonus-academy",
+    "storage_bucket": "bonus-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021620493475:android:8a3b792eb7e25ec0373316",
+        "android_client_info": {
+          "package_name": "com.bonuskw.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021620493475-58uf6ms40laop9g18lciisfr82qd6bal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bonuskw.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1021620493475-84gess0f9p01ggqs3u236vdci754svo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bonuskw.app",
+            "certificate_hash": "bdbad470db1f422e937c7abad918785a57690db8"
+          }
+        },
+        {
+          "client_id": "1021620493475-8of4ufubn2vetoo9o4ij06sstr2vfq4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bonuskw.app",
+            "certificate_hash": "6524f59934f32e6b53bab4f27e4a7982824ae64c"
+          }
+        },
+        {
+          "client_id": "1021620493475-v6c33314vn3p11hgah699koonu93k4ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCO2SQD5vYeI32atig4K_r3nFmPrQjMmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021620493475-9qohhb1i7d80prg16obn62d6jqpjpaoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021620493475-4dfv91mdrpdoqocg0e9s28g67n59shau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bonus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
