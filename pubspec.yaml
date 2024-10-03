@@ -35,7 +35,7 @@ dependencies:
   cloud_firestore: 4.17.3
   cloud_firestore_platform_interface: 6.2.3
   cloud_firestore_web: 3.12.3
-  collection: 1.18.0
+  collection: 1.19.0
   dart_jsonwebtoken: 2.7.1
   data_table_2: 2.5.10
   dropdown_button2: 2.3.9
